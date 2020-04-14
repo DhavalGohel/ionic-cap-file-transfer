@@ -1,0 +1,8 @@
+{
+  "name": "file-transfer-demo",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
